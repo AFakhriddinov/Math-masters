@@ -34,14 +34,18 @@
 
 This is a calculator app built with React JS. The calculator provides simple math operations
 
-## 🛠 Built With <a name="built-with"></a> 
+## 🛠 Built With <a name="built-with"></a>
+
 - React
 - Git, Github
 - VSCode
+
 ### Tech Stack <a name="tech-stack"></a>
+
 > Git,
 > Github,
 > React
+
 <details>
   <summary>Client</summary>
   <ul>
@@ -63,10 +67,10 @@ This is a calculator app built with React JS. The calculator provides simple mat
 </details>
 
 ### Key Features <a name="key-features"></a>
+
 - Basic set up
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -79,6 +83,7 @@ Clone this repository to your desired folder:
 ```
 git clone https://github.com/AFakhriddinov/Math-masters.git
 ```
+
 ### Prerequisites
 
 -NodeJS
@@ -94,31 +99,36 @@ git clone git https://github.com/AFakhriddinov/Math-masters.git
 
 cd Math-masters
 cd my-app
+
 ### Install
 
 N/A
 
 ### Usage
+
 Use this project in the browsers of desktops
+
 ### Run tests
+
 N/A
+
 ### Deployment
-You can deploy this project on GitHub Pages 
+
+You can deploy this project on GitHub Pages
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Abdul-Aziz Fakhriddinov**
+
 - GitHub: [@githubhandle](https://github.com/AFakhriddinov)
 - Twitter: [@facebookhandle](https://www.facebook.com/abdulaziz.faxriddinov)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-aziz-fakhriddinov-5297a6107/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 Add more dynamic features of sending data to user's email
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -130,16 +140,11 @@ Feel free to check the issues page.
 
 If you like this project, please let me know and we can improve it further. You are welcome to support this project by giving suggestions for improvement.
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse Community and student Code partiner, Morning Session and standup all .
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
@@ -149,11 +154,8 @@ I would like to thank Microverse Community and student Code partiner, Morning Se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/AFakhriddinov/Math-masters/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
