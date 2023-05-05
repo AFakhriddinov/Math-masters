@@ -112,8 +112,8 @@ export default function calculate(obj, buttonName) {
 
     return {
       total: operate(obj.total, obj.next, obj.operation),
-      next: null,
       operation: buttonName,
+      next: null,
     };
   }
 
@@ -127,7 +127,7 @@ export default function calculate(obj, buttonName) {
   // save the operation and shift 'next' into 'total'
   return {
     total: obj.next,
-    next: null,
     operation: buttonName,
+    next: null,
   };
 }
