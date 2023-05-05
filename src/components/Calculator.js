@@ -6,8 +6,8 @@ import calculate from './logic/calculate';
 const Calculator = () => {
   const [state, updateState] = useState({
     total: null,
-    next: null,
     operation: null,
+    next: null,
   });
 
   const calculation = (e) => {
@@ -91,7 +91,7 @@ const Calculator = () => {
         <input
           type="text"
           name="operand"
-          value={state.data.next || state.data.total || 0}
+          value={state.data.total || state.data.operation || state.data.next}
         />
       </div>
     );
