@@ -1,6 +1,6 @@
 .main {
   width: 600px;
-  background-color: whitesmoke;
+  background-color: rgb(237, 225, 225);
   display: flex;
   flex-direction: column;
   margin: auto;

@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
-import React, { useState } from 'react';
-import './Calculator.css';
-import calculate from './logic/calculate';
+import React, { useState } from "react";
+import "./Calculator.css";
+import calculate from "./logic/calculate";
 
 const Calculator = () => {
   const [state, updateState] = useState({
