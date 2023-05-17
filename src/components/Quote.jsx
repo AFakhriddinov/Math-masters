@@ -34,7 +34,7 @@ export default function Quote() {
   if (hasError) return <div style={style}>Quote could not be found</div>;
   if (isLoading) return <div style={style}>Loading...</div>;
   return (
-    <div style={style}>
+    <div className="quote" style={style}>
       {quoteData.map((quote) => (
         <p key={quote.quote}>
           {quote.quote}
