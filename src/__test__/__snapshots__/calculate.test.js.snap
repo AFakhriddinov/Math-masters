@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Test calculate function Testing that Calculator renders correctly 1`] = `
+exports[`Testing calculate function Create snapshot for Calculator.js file 1`] = `
 <DocumentFragment>
   <div
     class="main-section"
@@ -13,7 +13,7 @@ exports[`Test calculate function Testing that Calculator renders correctly 1`] =
     >
       <div
         class="operand-input"
-        data-testid="display"
+        data-testid="output"
       >
         0
       </div>
