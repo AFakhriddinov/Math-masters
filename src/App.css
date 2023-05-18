@@ -21,15 +21,16 @@
   flex-direction: column;
 }
 
-.operand-input input {
+.operand-input {
   border: none;
   outline: none;
-  direction: rtl;
+  text-align: right;
+  padding-top: 10px;
   color: white;
-  height: 70px;
+  height: 60px;
   background-color: gray;
   padding-right: 10px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .buttons {
@@ -94,13 +95,8 @@
 .nav h1 {
   font-size: 27px;
   font-weight: 600;
-  font-family:
-    "Trebuchet MS",
-    "Lucida Sans Unicode",
-    "Lucida Grande",
-    "Lucida Sans",
-    Arial,
-    sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .nav-ul {
@@ -122,13 +118,8 @@
   text-decoration: none;
   color: blue;
   cursor: pointer;
-  font-family:
-    "Trebuchet MS",
-    "Lucida Sans Unicode",
-    "Lucida Grande",
-    "Lucida Sans",
-    Arial,
-    sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .nav-ul li a:hover {
