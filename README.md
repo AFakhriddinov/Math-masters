@@ -121,8 +121,13 @@ You can deploy this project on GitHub Pages
 👤 **Abdul-Aziz Fakhriddinov**
 
 - GitHub: [@githubhandle](https://github.com/AFakhriddinov)
-- Twitter: [@facebookhandle](https://www.facebook.com/abdulaziz.faxriddinov)
+- Facebook: [@facebookhandle](https://www.facebook.com/abdulaziz.faxriddinov)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-aziz-fakhriddinov-5297a6107/)
+
+👤 **Steven Emmanuel**
+- GitHub: [@githubhandle](https://github.com/emmanuelsteven)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steven-emmanuel-75a03a141/)
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 

@@ -14,12 +14,16 @@ const Calculator = () => {
     const newState = calculate(state, e.target.textContent);
     updateState(newState);
   };
+  const { next, total, operation } = state;
+  const output = (total || '') + (operation || '') + (next || '') || '0';
 
   return (
     <div className="main-section">
       <h2>Lets do some Math</h2>
       <div className="main">
-        <Operand data={state} />
+        <div className="operand-input" data-testid="output">
+          {output}
+        </div>
         <div className="buttons">
           <div className="left-section">
             <button type="button" onClick={calculation} className="ac">
@@ -86,18 +90,5 @@ const Calculator = () => {
       </div>
     </div>
   );
-
-  function Operand(props) {
-    const state = props;
-    return (
-      <div className="operand-input">
-        <input
-          type="text"
-          name="operand"
-          value={state.data.total || state.data.operation || state.data.next}
-        />
-      </div>
-    );
-  }
 };
 export default Calculator;
