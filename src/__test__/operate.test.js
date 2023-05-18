@@ -4,6 +4,10 @@ describe("Test four operations +, -, / and x", () => {
   test("Adding numbers", () => {
     expect(operate(4, 3, "+")).toEqual("7");
   });
+  
+  test("Adding numbers", () => {
+    expect(operate(5, 1, "+")).toEqual("6");
+  });
 
   test("Subtracting numbers", () => {
     expect(operate(7, 2, "-")).toEqual("5");
