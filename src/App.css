@@ -19,9 +19,6 @@
 .operand-input {
   display: flex;
   flex-direction: column;
-}
-
-.operand-input {
   border: none;
   outline: none;
   text-align: right;
@@ -95,8 +92,13 @@
 .nav h1 {
   font-size: 27px;
   font-weight: 600;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family:
+    "Trebuchet MS",
+    "Lucida Sans Unicode",
+    "Lucida Grande",
+    "Lucida Sans",
+    Arial,
+    sans-serif;
 }
 
 .nav-ul {
@@ -118,8 +120,13 @@
   text-decoration: none;
   color: blue;
   cursor: pointer;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family:
+    "Trebuchet MS",
+    "Lucida Sans Unicode",
+    "Lucida Grande",
+    "Lucida Sans",
+    Arial,
+    sans-serif;
 }
 
 .nav-ul li a:hover {
